@@ -21,8 +21,6 @@ function App() {
 
 const itens = [item1, item2]
 
-const itens = [item1, item2]
-
 return (
   <>
     {itens.map(function (item) {
