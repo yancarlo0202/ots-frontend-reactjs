@@ -7,7 +7,7 @@ export function App() {
   };
 
   const item2 = {
-    nome: 'Frango Rôbo',
+    nome: 'Chicken',
     imagemUrl: 'https://static.wikia.nocookie.net/robotchicken748/images/9/94/61FA9A9B-DEF4-413D-B8E4-4CCC608F1DCF.jpeg/revision/latest?cb=20191029005409'
   };
 
