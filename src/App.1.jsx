@@ -8,7 +8,7 @@ export function App() {
 
   const item2 = {
     nome: 'Frango Rôbo',
-    imagemUrl: 'https://static.wikia.nocookie.net/p__/images/8/89/7EFE5573-7B92-4837-AC85-0100B34877EB.jpeg/revision/latest?cb=20200919222231&path-prefix=protagonist'
+    imagemUrl: 'https://static.wikia.nocookie.net/robotchicken748/images/9/94/61FA9A9B-DEF4-413D-B8E4-4CCC608F1DCF.jpeg/revision/latest?cb=20191029005409'
   };
 
 
